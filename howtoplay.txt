@@ -1,0 +1,1 @@
+TrollMineSweeper sigue la misma mecánica que el clásico juego Buscaminas, salvo que en esta versión los números siempre mienten indicando uno más o uno menos en la cantidad de bombas que hay a su alrededor. Los números te odian... yo también te odio... asúmelo, nadie te quiere :'(
